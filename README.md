@@ -12,7 +12,7 @@ I write on ranges of topics regarding frontend  development technologies and eve
 <li><a href="https://www.linkedin.com/in/oyebanji-biodun-0018b8236">Linkedin</a></li>
 <li><a href="https://twitter.com/dawg_4life">Twitter</a></li>
 
-<img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff" /> <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff" /> <img src="https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?logo=js&logoColor=fff" />
+<img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff" /> <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff" /> <img src="https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?logo=js&logoColor=fff" /> <img src="https://img.shields.io/badge/-REACTJS-61DAFB?logo=reactJS&logoColor=fff" /> <img src="https://img.shields.io/badge/-BOOTSTRAP-7952B3?logo=bootstrap&logoColor=fff" /> <img src="https://img.shields.io/badge/-GITHUB-181717?logo=git&logoColor=fff" />
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oyebanji12)](https://github.com/anuraghazra/github-readme-stats)
